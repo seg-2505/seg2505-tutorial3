@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "535993551604",
+    "firebase_url": "https://tuto3-fdd0c-default-rtdb.firebaseio.com",
+    "project_id": "tuto3-fdd0c",
+    "storage_bucket": "tuto3-fdd0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535993551604:android:84db8263dc233357832ca1",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmL5v8GKchXzVl_pzXNE9CNnb3Vje_CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
